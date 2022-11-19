@@ -1,5 +1,4 @@
 import os
-choice = raw_input('to install press (Y) to uninstall press (N) >> ')
 run = os.system
 if choice =='Y' or choice=='y':
 
